@@ -34,7 +34,7 @@ ReactDOM.render(
     <React.Fragment>
         <Navbar />
         <Intro />
-        {/* <About /> */}
+        <About />
         <Portfolio />
         <Contact />
         <BackToTop />

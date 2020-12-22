@@ -21,7 +21,7 @@ a {
 }
 
 a:hover {
-  color: #0078ff;
+  color: #e7eaee;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -31,7 +31,7 @@ a:hover {
 }
 
 .color-a {
-  color: #0078ff;
+  color: #f3f6fa;
 }
 
 .color-d {
@@ -171,7 +171,7 @@ a:hover {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #0078ff;
+  background-color: #fbfdff;
   width: 100px;
   bottom: -12px;
 }
@@ -412,7 +412,7 @@ NAVBAR
 
 .navbar-b.navbar-trans .nav-link,
 .navbar-b.navbar-reduce .nav-link {
-  color: blue;
+  color: rgb(253, 253, 253);
   text-transform: uppercase;
   font-weight: 600;
 }
