@@ -121,6 +121,11 @@ class Contact extends React.Component {
                               target="_blank"
                               rel="noopener noreferrer"
                             >
+                              <a
+                              href="https://github.com/Sannan-Ijaz"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            ></a>
                               <span className="ico-circle">
                                 <i className="ion-social-github"></i>
                               </span>
