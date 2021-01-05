@@ -30,8 +30,11 @@ import Preloader from './components/preloader';
 
 
 
+
+
 ReactDOM.render(
     <React.Fragment>
+       
         <Navbar />
         <Intro />
         <About />
