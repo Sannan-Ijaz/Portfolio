@@ -1,7 +1,7 @@
 import React from "react";
 import "./stars.scss";
 import Typed from "react-typed";
-import stock from "/Users/sannanijaz/Documents/General Assembly/React-Portfolio/src/img/Sannan Ijaz - Resume  (1) copy.pdf";
+import stock from "../img/Sannan Ijaz - Resume  (1) copy.pdf";
 
 class Intro extends React.Component {
   render() {
