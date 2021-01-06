@@ -1,7 +1,7 @@
 import React from "react";
 import "./stars.scss";
 import Typed from "react-typed";
-import stock from "../img/Sannan Ijaz - Resume  (1) copy.pdf";
+import resume from '../img/Sannan Ijaz - Resume  (1) copy.pdf';
 
 class Intro extends React.Component {
   render() {
@@ -46,11 +46,14 @@ class Intro extends React.Component {
                 <br/> <br/> <br/>
                 <a
                   className="btn btn-primary btn js-scroll px-4"
-                  href={stock} download
+                  href={resume} download
+         
+              
                   role="button"
                 >
                 Resume
                 </a>
+               
               </p>
             </div>
           </div>
