@@ -22,9 +22,9 @@ class Intro extends React.Component {
                   <Typed
                     strings={[
                       "Business Analyst",
-                      "Front End Developer",
-                      "Back End Developer",
-                      "Software Engineer",
+                      "Customer Success Manager",
+                      "Aspiring SDR",
+                    
                       // "Project Manager",
                       // "Devops Engineer",
                     ]}
